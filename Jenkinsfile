@@ -15,7 +15,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                echo 'Deploying automation...'
+                echo 'Deploying automation 123...'
                 // Thực hiện các bước deploy
             }
         }
